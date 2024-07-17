@@ -23,9 +23,74 @@
         "button-main-link": "",
         "sub-heading-bottom": "SUSTAINABLE, ETHICALLY MADE CLOTHES IN SIZES XXS TO 6XL."
       }
+    },
+    "products_grid_pop_up_ychbbb": {
+      "type": "products-grid-pop-up",
+      "blocks": {
+        "product_T4kJKB": {
+          "type": "product",
+          "settings": {
+            "product": "black-leather-bag",
+            "top": 40,
+            "left": 40
+          }
+        },
+        "product_BEJ4qr": {
+          "type": "product",
+          "settings": {
+            "product": "blue-silk-tuxedo",
+            "top": 40,
+            "left": 40
+          }
+        },
+        "product_KHJmXK": {
+          "type": "product",
+          "settings": {
+            "product": "chequered-red-shirt",
+            "top": 40,
+            "left": 40
+          }
+        },
+        "product_JE6Qk6": {
+          "type": "product",
+          "settings": {
+            "product": "classic-leather-jacket",
+            "top": 40,
+            "left": 40
+          }
+        },
+        "product_eA6JLa": {
+          "type": "product",
+          "settings": {
+            "product": "classic-varsity-top",
+            "top": 40,
+            "left": 40
+          }
+        },
+        "product_cFWeGY": {
+          "type": "product",
+          "settings": {
+            "product": "dark-denim-top",
+            "top": 40,
+            "left": 40
+          }
+        }
+      },
+      "block_order": [
+        "product_T4kJKB",
+        "product_BEJ4qr",
+        "product_KHJmXK",
+        "product_JE6Qk6",
+        "product_eA6JLa",
+        "product_cFWeGY"
+      ],
+      "settings": {
+        "heading": "TISSO VISION"
+      }
     }
   },
   "order": [
-    "header_banner_bMGAfG"
+    "header_banner_bMGAfG",
+    "products_grid_pop_up_ychbbb"
   ]
 }
