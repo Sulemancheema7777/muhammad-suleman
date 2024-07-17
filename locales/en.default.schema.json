@@ -1186,6 +1186,74 @@
         }
       }
     },
+    "header-banner": {
+      "name": "Header banner",
+      "settings": {
+        "image": {
+          "label": "Main image"
+        },
+        "logo-text": {
+          "label": "Logo Text"
+        },
+        "sub-heading-top": {
+          "label": "Sub Heading Top"
+        },
+        "button-top": {
+          "label": "Button Top Text"
+        },
+        "button-top-link": {
+          "label": "Button Top Link"
+        },
+        "heading": {
+          "label": "Heading"
+        },
+        "sub-heading-desktop": {
+          "label": "Sub Heading Desktop"
+        },
+        "sub-heading-mobile": {
+          "label": "Sub Heading Mobile"
+        },
+        "button-main": {
+          "label": "Button Main Text"
+        },
+        "button-main-link": {
+          "label": "Button Main Link"
+        },
+        "sub-heading-bottom": {
+          "label": "Sub heading Bottom"
+        }
+      },
+      "presets": {
+        "name": "Header banner"
+      }
+    },
+    "product-grid": {
+      "name": "Product Gird Pop Up",
+      "settings": {
+        "heading": {
+          "label": "section heading"
+        }
+      },
+      "blocks":{
+        "product":{
+          "name":"product",
+          "settings":{
+            "product":{
+              "label":"Select Product"
+              },
+            "top":{
+              "label":"Plus icon from Top"
+              },
+            "left":{
+              "label":"Plus icon from Left"
+              }
+          }
+        }
+      },
+      "presets": {
+        "name": "Product Gird Pop Up"
+      }
+    },
     "image-banner": {
       "name": "Image banner",
       "settings": {
